@@ -1,0 +1,5 @@
+E:\epam-lab\CachingSystem\CachingSystem\bin\Debug\CachingSystem.dll
+E:\epam-lab\CachingSystem\CachingSystem\bin\Debug\CachingSystem.pdb
+E:\epam-lab\CachingSystem\CachingSystem\obj\Debug\CachingSystem.csproj.CoreCompileInputs.cache
+E:\epam-lab\CachingSystem\CachingSystem\obj\Debug\CachingSystem.dll
+E:\epam-lab\CachingSystem\CachingSystem\obj\Debug\CachingSystem.pdb

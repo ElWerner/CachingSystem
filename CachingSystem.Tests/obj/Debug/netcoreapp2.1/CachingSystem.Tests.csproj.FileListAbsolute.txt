@@ -1,0 +1,17 @@
+E:\epam-lab\CachingSystem\CachingSystem.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+E:\epam-lab\CachingSystem\CachingSystem.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+E:\epam-lab\CachingSystem\CachingSystem.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+E:\epam-lab\CachingSystem\CachingSystem.Tests\bin\Debug\netcoreapp2.1\CachingSystem.Tests.deps.json
+E:\epam-lab\CachingSystem\CachingSystem.Tests\bin\Debug\netcoreapp2.1\CachingSystem.Tests.runtimeconfig.json
+E:\epam-lab\CachingSystem\CachingSystem.Tests\bin\Debug\netcoreapp2.1\CachingSystem.Tests.runtimeconfig.dev.json
+E:\epam-lab\CachingSystem\CachingSystem.Tests\bin\Debug\netcoreapp2.1\CachingSystem.Tests.dll
+E:\epam-lab\CachingSystem\CachingSystem.Tests\bin\Debug\netcoreapp2.1\CachingSystem.Tests.pdb
+E:\epam-lab\CachingSystem\CachingSystem.Tests\bin\Debug\netcoreapp2.1\CachingSystem.dll
+E:\epam-lab\CachingSystem\CachingSystem.Tests\bin\Debug\netcoreapp2.1\CachingSystem.pdb
+E:\epam-lab\CachingSystem\CachingSystem.Tests\obj\Debug\netcoreapp2.1\CachingSystem.Tests.csprojAssemblyReference.cache
+E:\epam-lab\CachingSystem\CachingSystem.Tests\obj\Debug\netcoreapp2.1\CachingSystem.Tests.csproj.CoreCompileInputs.cache
+E:\epam-lab\CachingSystem\CachingSystem.Tests\obj\Debug\netcoreapp2.1\CachingSystem.Tests.AssemblyInfoInputs.cache
+E:\epam-lab\CachingSystem\CachingSystem.Tests\obj\Debug\netcoreapp2.1\CachingSystem.Tests.AssemblyInfo.cs
+E:\epam-lab\CachingSystem\CachingSystem.Tests\obj\Debug\netcoreapp2.1\CachingSystem.Tests.csproj.CopyComplete
+E:\epam-lab\CachingSystem\CachingSystem.Tests\obj\Debug\netcoreapp2.1\CachingSystem.Tests.dll
+E:\epam-lab\CachingSystem\CachingSystem.Tests\obj\Debug\netcoreapp2.1\CachingSystem.Tests.pdb
