@@ -111,14 +111,6 @@ namespace CachingSystem
 
         #region Private API
 
-        /// <summary>
-        /// Adds new object to the cache
-        /// </summary>
-        /// <typeparam name="T">Type of cached object</typeparam>
-        /// <param name="key">A unique identifier for the cache entry</param>
-        /// <param name="cachedObject">The object to insert in the cache</param>
-        /// <param name="cacheTimeInSeconds">How long to store object in the cache</param>
-        /// <exception cref="ArgumentException">Thrown when cache entry with the same key already exists.</exception>
         private void AddObjectToCache<T>(string key, T cachedObject, long cacheTimeInSeconds)
         {
             if (IsExist(key))
@@ -132,13 +124,6 @@ namespace CachingSystem
             _cache.Set(key, cachedObject, cacheItemPolicy);
         }
 
-        /// <summary>
-        /// Gets object from the cache
-        /// </summary>
-        /// <typeparam name="T">Type of cached object</typeparam>
-        /// <param name="key">A unique identifier for the cache entry to get</param>
-        /// <returns>The cache entry that is identified by key parameter</returns>
-        /// <exception cref="ArgumentException">Thrown when cache entry with specified key doesn't exist.</exception>
         private T GetObjectFromCache<T>(string key)
         {
             var cachedObject = (T)_cache[key];
@@ -150,10 +135,6 @@ namespace CachingSystem
             return cachedObject;
         }
 
-        /// <summary>
-        /// Removes object from the cache
-        /// </summary>
-        /// <param name="key">A unique identifier for the cache entry to remove</param>
         private void RemoveObjectFromCache(string key)
         {
             if (IsExist(key))
